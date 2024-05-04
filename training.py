@@ -56,7 +56,7 @@ model.add(Dense(num_classes, activation='softmax'))
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
 # 9. Train Model
-model.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_test, y_test))
+model.fit(X_train, y_train, epochs=6, batch_size=32, validation_data=(X_test, y_test))
 
 # 10. Evaluate Model
 loss, accuracy = model.evaluate(X_test, y_test)
