@@ -7,18 +7,18 @@ This project aims to replicate the "Add a column from examples" feature found in
 
 # Features
 This project includes several text transformation patterns that users can recognize and implement:
-Combine: Combines literal strings or entire column values.
-Replace: Replaces a specific substring with another string.
-Length: Computes the length of a string.
-Extract: Extracts a substring starting from a specific position with a defined length.
-First Characters: Extracts the first n characters of a string.
-Last Characters: Extracts the last n characters of a string.
-Range: Extracts a range of characters within specified start and end indices.
-Text before Delimiter: Extracts the text before a specified delimiter.
-Text after Delimiter: Extracts the text after a specified delimiter.
-Text between Delimiters: Extracts text between two delimiters.
-Remove Characters: Removes specific characters from a string.
-Keep Characters: Retains only specified characters in a string.
+1. Combine: Combines literal strings or entire column values.
+2. Replace: Replaces a specific substring with another string.
+3. Length: Computes the length of a string.
+4. Extract: Extracts a substring starting from a specific position with a defined length.
+5. First Characters: Extracts the first n characters of a string.
+6. Last Characters: Extracts the last n characters of a string.
+7. Range: Extracts a range of characters within specified start and end indices.
+8. Text before Delimiter: Extracts the text before a specified delimiter.
+9. Text after Delimiter: Extracts the text after a specified delimiter.
+10. Text between Delimiters: Extracts text between two delimiters.
+11. Remove Characters: Removes specific characters from a string.
+12. Keep Characters: Retains only specified characters in a string.
 
 # Invitation to Collaborate
 All readers are encouraged to experiment with this pattern recognition feature and expand on it to implement the actual transformations. Feel free to share the resulting code with the community and contribute to this open-source project.
