@@ -2,8 +2,8 @@
 This project aims to replicate the "Add a column from examples" feature found in Power BI Desktop. In Power BI, this feature allows users to add a new column by specifying examples of the desired transformation, making data processing intuitive and straightforward. However, the code provided here focuses primarily on recognizing text transformation patterns rather than directly performing the transformations.
 
 # Project Objectives
--Pattern Recognition: The code identifies transformation patterns based on examples provided by the user.
--Custom Implementation: Users can implement their transformations and share their modifications.
+1. Pattern Recognition: The code identifies transformation patterns based on examples provided by the user.
+2. Custom Implementation: Users can implement their transformations and share their modifications.
 
 # Features
 This project includes several text transformation patterns that users can recognize and implement:
